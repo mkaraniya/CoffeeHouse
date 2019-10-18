@@ -1,6 +1,6 @@
 import coffeehouse
 
-api_key = "<API KEY>"
+api_key = "b6aab00cbdebd95ab8f142e0941b5a8d152c9ad1f0a7f6312e81603719c6ca60359ff4f3"
 api_client = coffeehouse.API(api_key)
 
 session = api_client.create_session()
